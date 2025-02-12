@@ -1,7 +1,9 @@
 # Age Calculator
 
 ## 📌 Overview
-This is a simple **Age Calculator** web application that calculates and displays your exact age in **years, months, days, hours, minutes, and seconds**. The application updates the age dynamically every second.
+This is a simple **Age Calculator** web application that calculates and displays your exact age in **years, months, days, hours, minutes, and seconds**. The application updates the age dynamically every second. (https://roadmap.sh/projects/age-calculator)
+
+Checkout : https://manas-raj999.github.io/Age-Calculator/
 
 ## 🚀 Features
 - **User-friendly Date Picker**: Uses **Flatpickr** for an interactive date selection.
@@ -24,17 +26,17 @@ This is a simple **Age Calculator** web application that calculates and displays
 ## 📦 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/age-calculator.git
+   git clone https://github.com/manas-raj999/age-calculator.git
    ```
 2. Open `index.html` in a web browser.
 
 ## 🖥️ File Structure
 ```
 /age-calculator
-│── index.html      # Main webpage
-│── styles.css      # Styling for the page
-│── script.js       # JavaScript logic for age calculation
-│── README.md       # Project documentation (this file)
+│── index.html      
+│── styles.css      
+│── script.js       
+│── README.md       
 ```
 
 ## ⚙️ Dependencies
